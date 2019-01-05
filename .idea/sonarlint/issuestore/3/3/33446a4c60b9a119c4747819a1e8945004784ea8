@@ -1,0 +1,12 @@
+
+isquid:S2095*"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(±¡Œıÿÿÿÿ
+lsquid:S2259"IA "NullPointerException" could be thrown; "bankAccount" is nullable here.(ÜŞâºüÿÿÿÿ8äÂ Ûı,
+jsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷Ğ±İùÿÿÿÿ
+rsquid:S1488/"[Immediately return this expression instead of assigning it to the temporary variable "obj".(şöğí
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ
+dsquid:S1126"AReplace this if-then-else statement by a single return statement.(ÜŞâºüÿÿÿÿ8äÂ Ûı,
+fsquid:S2095,"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Â”ê
+^squid:UselessImportCheck"3Remove this unused import 'program.model.Customer'.(Š»¡8éÌêØı,
+lsquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(İ°Îœúÿÿÿÿ
+]squid:S1118":Add a private constructor to hide the implicit public one.(–¨ƒÊøÿÿÿÿ8Ïø¡Ûı,

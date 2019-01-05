@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="Generatory Aplikacji 6 EE:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Generatory_Aplikacji_6_EE_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Generatory Aplikacji 6 EE/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>

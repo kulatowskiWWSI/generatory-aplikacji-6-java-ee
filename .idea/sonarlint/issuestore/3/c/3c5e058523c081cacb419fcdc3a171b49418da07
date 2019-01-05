@@ -1,0 +1,10 @@
+
+msquid:S2095$"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(Â”ê8ûŒæØı,
+xsquid:S1488'"[Immediately return this expression instead of assigning it to the temporary variable "obj".(›¢¶ 8ûŒæØı,
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(Şàš¬øÿÿÿÿ8ûŒæØı,
+ssquid:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(İ°Îœúÿÿÿÿ8ûŒæØı,
+qsquid:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(÷Ğ±İùÿÿÿÿ8ûŒæØı,
+psquid:S2095""MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(±¡Œıÿÿÿÿ8ûŒæØı,
+]squid:S1118
+":Add a private constructor to hide the implicit public one.(û¿ß„şÿÿÿÿ8èâÛı,
